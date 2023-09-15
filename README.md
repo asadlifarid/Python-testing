@@ -1,15 +1,5 @@
 # JBD Python  :snake:
 
-Aşağıdakı tapşırıqları həll etməyinizi tələb edirik. Əvvəlcə tələbləri oxumağı unutmayın.
-#### Tapşırıqları həll etmək üçün bilməli olduğunuz mövzular :brain:
-
-* Unit testing
-* Python testing (PyTest)
-
-**Qeydlər**: :pushpin:
-* Tapşırıqları vaxtında həll etməyi və göndərməyi unutmayın :hourglass_flowing_sand:
-### Tapşırıqlar :dart:
-
 * Daxil edilmiş edədi kuba yüksəldən funksiya yazın. Yaradılmış funksiya aşağıdakı `test case`-ləri ödəyən testlərdən keçməlidir.
 
     - `Giriş verilənləri ==> 7. Gözlənilən nəticə ==> 343`
@@ -64,6 +54,3 @@ Aşağıdakı tapşırıqları həll etməyinizi tələb edirik. Əvvəlcə təl
     - `Wallet()` class-ından obyekt yaradın. İlkin olaraq `balance` 10 olmalıdır. `add_cash(70)` methodu çağırıldıqda `balance`-ın 80 olduğunu yoxlayan test yazın.
     - `Wallet()` class-ından obyekt yaradın. İlkin olaraq `balance` 60 olmalıdır. `spend_cash(90)` methodu çağırıldıqda `InsufficientAmount` type-da error raise etməlidir. Bunu yoxlayan test yazın. 
         - ***Hint*** :lollipop: [Creating Custom Exceptions](https://www.programiz.com/python-programming/user-defined-exception) mövzusu istifadə olunacaq. 
-
-
-**Powered by [TechAcademy](https://www.tech.edu.az/)**
